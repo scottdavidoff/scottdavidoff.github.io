@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on scott davidoff on the www</title>
+    <link>https://scottdavidoff.com/tags/</link>
+    <description>Recent content in Tags on scott davidoff on the www</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://scottdavidoff.com/tags/data-science/</link>
+      <pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Methods</title>
+      <link>https://scottdavidoff.com/tags/design-methods/</link>
+      <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/tags/design-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>https://scottdavidoff.com/tags/internet-of-things/</link>
+      <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/tags/internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on scott davidoff on the www</title>
+    <link>https://scottdavidoff.com/tags/data-science/</link>
+    <description>Recent content in Data Science on scott davidoff on the www</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co2 Virtual Science Data Environment Providing Streamlined Access to Co2 Data</title>
+      <link>https://scottdavidoff.com/publications/co2-virtual-science-data-environment-providing-streamlined-access-to-co2-data/</link>
+      <pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/publications/co2-virtual-science-data-environment-providing-streamlined-access-to-co2-data/</guid>
+      <description>Summary of the Co2 Virtual Science Data Environment Providing Streamlined Access to Co2 Data project</description>
+    </item>
+    
+  </channel>
+</rss>
