@@ -1,3 +1,38 @@
+title = "scott davidoff | design in space"
 baseURL = "https://scottdavidoff.com/"
 languageCode = "en-us"
-title = "scott davidoff on the www"
+theme = "ananke"
+# themesDir = "../.."
+resourceDir = "../resources"
+
+# DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/designinspace"
+  instagram = "https://www.instagram.com/scottdavidoff/"
+  youtube = "https://www.youtube.com/channel/UCJfaowplljkyPdQKS1WuAow"
+  github = "" # https://github.com/scottdavidoff
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/scottdavidoff/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  scholar = "https://scholar.google.com/citations?user=NNr46G8AAAAJ"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
