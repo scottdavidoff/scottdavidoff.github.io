@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on scott davidoff | design in space</title>
+    <link>https://scottdavidoff.com/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on scott davidoff | design in space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Visual Analytics Approach to Debugging Cooperative Autonomous Multi Robot Systems Worldviews</title>
+      <link>https://scottdavidoff.com/publications/a-visual-analytics-approach-to-debugging-cooperative-autonomous-multi-robot-systems-worldviews/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/publications/a-visual-analytics-approach-to-debugging-cooperative-autonomous-multi-robot-systems-worldviews/</guid>
+      <description>An algorithm and visual encoding to explain unexpected multi-robot system behavior</description>
+    </item>
+    
+  </channel>
+</rss>

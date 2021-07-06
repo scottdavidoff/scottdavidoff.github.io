@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on scott davidoff on the www</title>
+    <title>Publications on scott davidoff | design in space</title>
     <link>https://scottdavidoff.com/publications/</link>
-    <description>Recent content in Publications on scott davidoff on the www</description>
+    <description>Recent content in Publications on scott davidoff | design in space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/publications/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scottdavidoff.com/publications/a-visual-analytics-approach-to-debugging-cooperative-autonomous-multi-robot-systems-worldviews/</guid>
-      <description>Summary of the A Visual Analytics Approach to Debugging Cooperative Autonomous Multi Robot Systems Worldviews project</description>
+      <description>An algorithm and visual encoding to explain unexpected multi-robot system behavior</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://scottdavidoff.com/publications/co2-virtual-science-data-environment-providing-streamlined-access-to-co2-data/</guid>
-      <description>Summary of the Co2 Virtual Science Data Environment Providing Streamlined Access to Co2 Data project</description>
+      <description>A search interface to simplify searching for NASA greenhouse gas data</description>
     </item>
     
     <item>

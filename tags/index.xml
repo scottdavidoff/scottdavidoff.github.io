@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on scott davidoff on the www</title>
+    <title>Tags on scott davidoff | design in space</title>
     <link>https://scottdavidoff.com/tags/</link>
-    <description>Recent content in Tags on scott davidoff on the www</description>
+    <description>Recent content in Tags on scott davidoff | design in space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scottdavidoff.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization</title>
+      <link>https://scottdavidoff.com/tags/data-visualization/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Controls</title>
+      <link>https://scottdavidoff.com/tags/robotic-controls/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottdavidoff.com/tags/robotic-controls/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data Science</title>
       <link>https://scottdavidoff.com/tags/data-science/</link>
